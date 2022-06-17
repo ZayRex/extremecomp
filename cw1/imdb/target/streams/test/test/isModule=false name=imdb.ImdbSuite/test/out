@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0m[32mImdbSuite:[0m[0m
+[0m[[0minfo[0m] [0m[31m- 'task1' should work for a (specific) list with two elements *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  ImdbSuite.this.initializeImdb() was false -- did you fill in all the values in ImdbAnalysis (titleBasicsList, titleRatingsList, titleCrewList, nameBasicsList)? (ImdbSuite.scala:96)[0m[0m
+[0m[[0minfo[0m] [0m[31m- 'task2' should work for (specific) lists with two elements *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  ImdbSuite.this.initializeImdb() was false -- did you fill in all the values in ImdbAnalysis (titleBasicsList, titleRatingsList, titleCrewList, nameBasicsList)? (ImdbSuite.scala:109)[0m[0m
+[0m[[0minfo[0m] [0m[31m- 'task3' should work for (specific) lists with two elements *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  ImdbSuite.this.initializeImdb() was false -- did you fill in all the values in ImdbAnalysis (titleBasicsList, titleRatingsList, titleCrewList, nameBasicsList)? (ImdbSuite.scala:119)[0m[0m
+[0m[[0minfo[0m] [0m[31m- 'task4' should work for small lists *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  ImdbSuite.this.initializeImdb() was false -- did you fill in all the values in ImdbAnalysis (titleBasicsList, titleRatingsList, titleCrewList, nameBasicsList)? (ImdbSuite.scala:132)[0m[0m
+[0m[[0minfo[0m] [0m[31mimdb.ImdbSuite *** ABORTED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  ImdbSuite.this.initializeImdb() was false -- did you fill in all the values in ImdbAnalysis (titleBasicsList, titleRatingsList, titleCrewList, nameBasicsList)? (ImdbSuite.scala:21)[0m[0m

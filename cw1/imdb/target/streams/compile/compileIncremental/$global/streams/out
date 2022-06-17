@@ -1,0 +1,41 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set(/home/zayrex/workspace/uoe_yr4/extreemcomp/cw1/imdb/src/main/scala/imdb/ImdbAnalysis.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/home/zayrex/workspace/uoe_yr4/extreemcomp/cw1/imdb/src/main/scala/imdb/ImdbAnalysis.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/zayrex/workspace/uoe_yr4/extreemcomp/cw1/imdb/src/main/scala/imdb/ImdbAnalysis.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/zayrex/workspace/uoe_yr4/extreemcomp/cw1/imdb/src/main/scala/imdb/ImdbAnalysis.scala)[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/zayrex/workspace/uoe_yr4/extreemcomp/cw1/imdb/target/scala-2.12/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.18:component from component compiler for Scala 2.12.15[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.18:component from component compiler for Scala 2.12.15[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 216ab0b7, interfacing (CompilerInterface) with Scala compiler version 2.12.15[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/home/zayrex/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.15.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/zayrex/workspace/uoe_yr4/extreemcomp/cw1/imdb/target/scala-2.12/classes[0m
+[0m[[31merror[0m] [0m/home/zayrex/workspace/uoe_yr4/extreemcomp/cw1/imdb/src/main/scala/imdb/ImdbAnalysis.scala:14: not found: value Nill[0m
+[0m[[31merror[0m] [0m  val titleBasicsList: List[TitleBasics] = Nill[0m
+[0m[[31merror[0m] [0m                                           ^[0m
+[0m[[31merror[0m] [0m/home/zayrex/workspace/uoe_yr4/extreemcomp/cw1/imdb/src/main/scala/imdb/ImdbAnalysis.scala:17: not found: value Nill[0m
+[0m[[31merror[0m] [0m  val titleRatingsList: List[TitleRatings] = Nill[0m
+[0m[[31merror[0m] [0m                                             ^[0m
+[0m[[31merror[0m] [0m/home/zayrex/workspace/uoe_yr4/extreemcomp/cw1/imdb/src/main/scala/imdb/ImdbAnalysis.scala:20: not found: value Nill[0m
+[0m[[31merror[0m] [0m  val titleCrewList: List[TitleCrew] = Nill[0m
+[0m[[31merror[0m] [0m                                       ^[0m
+[0m[[31merror[0m] [0m/home/zayrex/workspace/uoe_yr4/extreemcomp/cw1/imdb/src/main/scala/imdb/ImdbAnalysis.scala:23: not found: value Nill[0m
+[0m[[31merror[0m] [0m  val nameBasicsList: List[NameBasics] = Nill[0m
+[0m[[31merror[0m] [0m                                         ^[0m
+[0m[[31merror[0m] [0mfour errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m
